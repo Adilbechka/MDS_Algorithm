@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/Adilbechka/MDS_Algorithm/master/MDS_all.png)
+
 In my "Geo Machine Learning" class, we were implementing MDS algorithm that would reduce
 dimensionality of a given 3D cube to 2D. In the oridinal project, cube parameters were
 hardcoded and we had to generate images of the reduced cube. As an independent project,
